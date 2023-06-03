@@ -1,6 +1,4 @@
-Hello , my name is Lucas Fogaça
-<br>
-I am a computer science student seeking opportunities and collaboration on projects. I am always excited to learn new technologies.
+Hello , my name is Lucas Fogaça 🖐️
 <br>
 <br>
 Contact:
