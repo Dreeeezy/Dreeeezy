@@ -3,10 +3,13 @@ Hello , my name is Lucas Fogaça
 I am a computer science student seeking opportunities and collaboration on projects. I am always excited to learn new technologies.
 <br>
 <br>
-Contact: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<h3>Knowledge<h3/>
-Database: <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+Contact:
+[![Email:](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=CllgCKCGldKsbqKJWfQffsNgCBnSSVqhTWzqJMNbXLrtKxFQprdPjPQmKqbzPRtDZCtrnLPMwQq)
+<br>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> : Lc#9603 
+<br>
+Database:
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
