@@ -71,5 +71,5 @@ Languages:  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&
   Virtualization: <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
 <br>
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreeeezy" />
+<br> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreeeezy" /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dreeeezy" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dreeeezy" />
