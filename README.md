@@ -6,7 +6,9 @@ I am a computer science student seeking opportunities and collaboration on proje
 Contact:
 [![Email:](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=CllgCKCGldKsbqKJWfQffsNgCBnSSVqhTWzqJMNbXLrtKxFQprdPjPQmKqbzPRtDZCtrnLPMwQq)
 <br>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> : Lc#9603 
+<br>
+Discord: Lc#9603
+<br>
 <br>
 Database:
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
